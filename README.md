@@ -1,1 +1,1 @@
-# -Mastering-TypeScript
+# Mastering-TypeScript
