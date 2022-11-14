@@ -13,6 +13,11 @@ const numbers: number[] = [1,2,3,4];
 // NUMBER ARRAY ALTERNATIVE
 const numbersAlternative: Array<number> = [1,2,3,4];
 
+// NUMBER & STRING ARRAY
+const numStringArr: (number|string)[] = [];
+numStringArr.push(1);
+numStringArr.push("2");
+
 // OBJECT ARRAY
 type Point = {
     x: number,
